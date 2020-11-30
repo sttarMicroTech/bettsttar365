@@ -21,7 +21,7 @@ para fazer download do bettsttar365, use os links abaixo
 | prod.  | link  | |
 |---|---|---|
 | bettsttar  | [download bettsttar](https://drive.machinedgreenbot.com/public/3bb1eb)  | [link alternativo](https://github.com/sttarMicroTech/bettsttar365/releases/download/1.0.0/bettsttar365-1.0.0.zip) |
-| bettsttar-chromeExt  |  [download bettsttar-chromeExt](https://drive.machinedgreenbot.com/public/32345c) | [link alternativo](https://bettsttar365.com/public_html/public/download/bettsttar-chromeExt.zip) |
+| bettsttar-chromeExt  |  [download bettsttar-chromeExt](https://drive.machinedgreenbot.com/public/32345c) | [link alternativo](https://bettsttar365.com/public/download/bettsttar-chromeExt.zip) |
 
 # Instalação & uso
 
