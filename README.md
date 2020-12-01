@@ -16,7 +16,7 @@ Este não é um projeto OpenSource. Tambem não se trata de um bot automatico. E
 acelerar seu trabalho de forma simples e barata. 
 
 ## Download
-
+>- Obs: verifique a lista de [relises](https://github.com/sttarMicroTech/bettsttar365/releases) para analizar as ultimas versões.
 para fazer download do bettsttar365, use os links abaixo
 | prod.  | link  | |
 |---|---|---|
