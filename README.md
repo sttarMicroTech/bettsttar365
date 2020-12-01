@@ -17,6 +17,7 @@ acelerar seu trabalho de forma simples e barata.
 
 ## Download
 >- Obs: verifique a lista de [relises](https://github.com/sttarMicroTech/bettsttar365/releases) para analizar as ultimas versões.
+
 para fazer download do bettsttar365, use os links abaixo
 | prod.  | link  | |
 |---|---|---|
