@@ -21,8 +21,8 @@ acelerar seu trabalho de forma simples e barata.
 para fazer download do bettsttar365, use os links abaixo
 | prod.  | link  | |
 |---|---|---|
-| bettsttar  | [download bettsttar](https://github.com/sttarMicroTech/bettsttar365/releases/tag/1.0.2)  | [link alternativo](https://github.com/sttarMicroTech/bettsttar365/releases/download/1.0.2/bettsttar365-1.0.2.zip) |
-| bettsttar-chromeExt  |  [download bettsttar-chromeExt](https://github.com/sttarMicroTech/bettsttar365/releases/download/1.0.2/bettsttar-chromeExt.zip) | [link alternativo](https://bettsttar365.com/public/download/bettsttar-chromeExt.zip) |
+| bettsttar  | [download bettsttar](https://github.com/sttarMicroTech/bettsttar365/releases/tag/1.0.3)  | [link alternativo](https://github.com/sttarMicroTech/bettsttar365/releases/download/1.0.3/bettsttar365-1.0.3.zip) |
+| bettsttar-chromeExt  |  [download bettsttar-chromeExt](https://github.com/sttarMicroTech/bettsttar365/releases/download/1.0.3/bettsttar-chromeExt-1.3.zip) | [link alternativo](https://github.com/sttarMicroTech/bettsttar365/releases/tag/1.0.3) |
 
 # Instalação & uso
 
